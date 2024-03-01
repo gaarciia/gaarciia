@@ -1,5 +1,10 @@
-### Eae 👋
-#### Estudante de computer science e apaixonado por tecnologia🤖
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Seres+Humanos!+👋;Olá,+Pessoal!+....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+#### Me chamo Gabriel sou estudante de computer science e apaixonado por tecnologia🤖
 
  ##
  
