@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Seres+Humanos!+👋;Olá,+Pessoal!+....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=40&pause=550&color=8E27F7&background=000000&center=true&vCenter=true&random=false&width=550&height=100&lines=Ol%C3%A1%2C+Seres+Humanos+%F0%9F%98%8E;Me+chamo+Gabriel" alt="Typing SVG" /></a>
 </h1>
 
 #### Me chamo Gabriel sou estudante de computer science e apaixonado por tecnologia🤖
