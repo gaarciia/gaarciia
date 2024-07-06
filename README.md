@@ -9,7 +9,7 @@
 Full-Stack Developer <br>
 Host/Organizing (Em desenvolvimento...⚙️)<br>
 
-- ⚙️ Uso cotidiano: `.js`, `.html`, `.css`, `.psd`, `.ia`, `.mysql`, `.git`, `.adobe`
+- ⚙️ Uso cotidiano: `.java`,`.python`,`.js`, `.html`, `.css`, `.psd`, `.ia`, `.mysql`, `.git`
 - 🚀 Sempre pronto para colaborar e aprender
 - 💬 `ping` sobre mim **development**, **graphic_design**
 
